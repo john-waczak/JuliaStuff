@@ -4,7 +4,7 @@ CurrentModule = JuliaStuff
 
 # JuliaStuff
 
-Documentation for [JuliaStuff](https://github.com/john-waczak/JuliaStuff.jl).
+Documentation for [JuliaStuff](https://github.com/john-waczak/JuliaStuff).
 
 ```@index
 ```
