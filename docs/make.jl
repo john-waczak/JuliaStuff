@@ -6,11 +6,11 @@ DocMeta.setdocmeta!(JuliaStuff, :DocTestSetup, :(using JuliaStuff); recursive=tr
 makedocs(;
     modules=[JuliaStuff],
     authors="John Waczak",
-    repo="https://github.com/john-waczak/JuliaStuff.jl/blob/{commit}{path}#{line}",
-    sitename="JuliaStuff.jl",
+    repo="https://github.com/john-waczak/JuliaStuff/blob/{commit}{path}#{line}",
+    sitename="JuliaStuff",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://john-waczak.github.io/JuliaStuff.jl",
+        canonical="https://john-waczak.github.io/JuliaStuff",
         assets=String[],
     ),
     pages=[
@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/john-waczak/JuliaStuff.jl",
+    repo="github.com/john-waczak/JuliaStuff",
     devbranch="main",
 )
