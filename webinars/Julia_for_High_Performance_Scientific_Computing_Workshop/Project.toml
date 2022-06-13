@@ -1,0 +1,5 @@
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+PalmerPenguins = "8b842266-38fa-440a-9b57-31493939ab85"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"

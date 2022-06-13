@@ -13,6 +13,8 @@
 - [SIMD in Julia](https://www.youtube.com/watch?v=W1hXttRmuks&ab_channel=JuliaComputing)
 - [Performance Benchmarking in Julia](https://www.youtube.com/watch?v=4-qLG27FMbQ&ab_channel=JuliaComputing)
 - [GPU Programming in Julia](https://www.youtube.com/watch?v=5wQKc66sdTk&ab_channel=JuliaComputing)
+- [Julia for High Performance Scientific Computing Workshop](https://www.youtube.com/watch?v=dazO2PI1AUQ&list=PLHYvUIHmIRZM-69vIxfL81RLwd39gOlse&index=2&t=37s&ab_channel=EuroCCSweden)
+  - [Associated webpage](https://enccs.github.io/Julia-for-HPC/)
 
 ### Machine Learning
 - [Machine Learning with Multi-GPU Training](https://www.youtube.com/watch?v=D_VrVq_W-eE&ab_channel=JuliaComputing)
