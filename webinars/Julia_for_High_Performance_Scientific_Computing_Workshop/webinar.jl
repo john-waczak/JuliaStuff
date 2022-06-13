@@ -183,3 +183,5 @@ x = 2
 
 @macroexpand @assert 1 == 1
 @macroexpand @fastmath 1+1
+@macroexpand @show x
+@macroexpand @time sum([1/i for i ∈ 1:20])

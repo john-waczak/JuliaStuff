@@ -102,6 +102,4 @@ using StatsPlots
                color = [:magenta :springgreen :blue],)
 
 
-# Traditional ML via MLJ.jl and ScikitLearn.jl
-using MLJ
-using Flux
+
